@@ -1,1 +1,1 @@
-# IMUArduino-PiClient
+# QueensFootfallIR-PiClient
